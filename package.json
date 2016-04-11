@@ -1,0 +1,23 @@
+{
+  "name": "01-modelo-datos-mongoose",
+  "version": "1.0.0",
+  "description": "Creando un modelo de datos con MongoDB y Mongoose",
+  "main": "index.js",
+  "dependencies": {
+    "mongoose": "^4.4.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codigodiario/01-modelo-datos-mongoose.git"
+  },
+  "author": "Fridox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codigodiario/01-modelo-datos-mongoose/issues"
+  },
+  "homepage": "https://github.com/codigodiario/01-modelo-datos-mongoose#readme"
+}
